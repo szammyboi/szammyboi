@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Sam
+# Hi, I'm Sam
 I'm currently looking for internship opportunities
 
 
