@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm Sam
 I'm currently looking for internship opportunities
 
 
