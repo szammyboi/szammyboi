@@ -5,4 +5,4 @@ A student developer currently looking for internship opportunities
 ---
 [![](https://visitcount.itsvg.in/api?id=szammyboi&icon=0&color=2)](https://visitcount.itsvg.in)
 
-[![](https://github-readme-stats.hackclub.dev/api/wakatime?username=2327&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)]
+![](https://github-readme-stats.hackclub.dev/api/wakatime?username=2327&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
