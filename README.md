@@ -8,7 +8,8 @@ A student developer currently looking for internship opportunities
 ![](https://github-readme-stats.hackclub.dev/api/wakatime?username=2327&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 -->
 ![Sam Morse](fulltest.svg)
-![Sam Morse](goodname.svg)
+
+<!--![Sam Morse](goodname.svg)
 
 <p align="center">
   <img src="https://github.com/szammyboi/szammyboi/blob/main/namecenter.svg" alt="description" />
@@ -29,14 +30,15 @@ A student developer currently looking for internship opportunities
   Student @ UF<br>
 Specializing in graphics, web, and low-level programming
 </p>
+-->
 <!--ff5813
 f18d00
 488b99
 da1d4c-->
-
+<!--
 <p align="center">
   <img src="https://github.com/szammyboi/szammyboi/blob/main/namecenter.svg" alt="description" />
-</p>
+</p>-->
 
 ![C++](https://img.shields.io/badge/c++-%23ff5813.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-f18d00?style=for-the-badge)
