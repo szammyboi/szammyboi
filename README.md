@@ -10,7 +10,7 @@ A student developer currently looking for internship opportunities
 ![Sam Morse](goodname.svg)
 
 <p align="center">
-  <img src="https://github.com/szammyboi/szammyboi/blob/main/goodname.svg" alt="description" />
+  <img src="https://github.com/szammyboi/szammyboi/blob/main/namecenter.svg" alt="description" />
 </p>
 
 <p>
