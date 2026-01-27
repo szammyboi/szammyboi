@@ -35,15 +35,18 @@ Specializing in graphics, web, and low-level programming
 f18d00
 488b99
 da1d4c-->
+
 <!--
 <p align="center">
   <img src="https://github.com/szammyboi/szammyboi/blob/main/namecenter.svg" alt="description" />
 </p>
-![C++](https://img.shields.io/badge/c++-%23ff5813.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+-->
+<!--![C++](https://img.shields.io/badge/c++-%23ff5813.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-f18d00?style=for-the-badge)
 ![OpenGL](https://img.shields.io/badge/GLSL-488b99?style=for-the-badge)
  ![JavaScript](https://img.shields.io/badge/javascript-%23da1d4c.svg?style=for-the-badge&logo=javascript&logoColor=%23ffffff)
  ![Go](https://img.shields.io/badge/go-%23ff5813.svg?style=for-the-badge&logo=go&logoColor=white)
  ![Lua](https://img.shields.io/badge/lua-%23f18d00.svg?style=for-the-badge&logo=lua&logoColor=white) 
- ![Svelte](https://img.shields.io/badge/svelte-%23488b99.svg?style=for-the-badge&logo=svelte&logoColor=white)-->
+ ![Svelte](https://img.shields.io/badge/svelte-%23488b99.svg?style=for-the-badge&logo=svelte&logoColor=white)
+ -->
 
