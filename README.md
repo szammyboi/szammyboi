@@ -7,11 +7,4 @@ A student developer currently looking for internship opportunities
 
 ![](https://github-readme-stats.hackclub.dev/api/wakatime?username=2327&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 -->
-![Alt text for the image](name.png)
-
-<a href="https://github.com/szammyboi">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/szammyboi/szammyboi/main/name.png">
-    <img alt="Andrew Grant's GitHub Profile README" src="https://raw.githubusercontent.com/szammyboi/szammyboi/main/namelight.png">
-  </picture>
-</a>
+![Alt text for the image](name.svg)
