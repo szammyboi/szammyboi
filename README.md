@@ -9,6 +9,10 @@ A student developer currently looking for internship opportunities
 -->
 ![Sam Morse](goodname.svg)
 
+<p align="center">
+  <img src="https://github.com/szammyboi/szammyboi/blob/main/goodname.svg" alt="description" />
+</p>
+
 <p>
   Student @ UF<br>
 Specializing in graphics, web, and low-level programming
