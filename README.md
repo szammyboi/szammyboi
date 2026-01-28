@@ -8,7 +8,15 @@ A student developer currently looking for internship opportunities
 ![](https://github-readme-stats.hackclub.dev/api/wakatime?username=2327&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 -->
 ![Sam Morse](goth.svg)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/c++-%23c56e33.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenGL-c56e33?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GLSL-c56e33?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/javascript-%23c56e33.svg?style=for-the-badge&logo=javascript&logoColor=%23ffffff" />
+  <img src="https://img.shields.io/badge/go-%23c56e33.svg?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/lua-%23c56e33.svg?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/svelte-%23c56e33.svg?style=for-the-badge&logo=svelte&logoColor=white" />
+</p>
 <!--![Sam Morse](goodname.svg)
 
 <p align="center">
