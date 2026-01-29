@@ -9,13 +9,13 @@ A student developer currently looking for internship opportunities
 -->
 ![Sam Morse](goth.svg)
 <p align="center">
-  <img src="https://img.shields.io/badge/c++-%23000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenGL-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GLSL-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=%23ffffff" />
-  <img src="https://img.shields.io/badge/go-%23000000.svg?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/lua-%23000000.svg?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/svelte-%23000000.svg?style=for-the-badge&logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%230d1117.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenGL-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GLSL-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/javascript-%230d1117.svg?style=for-the-badge&logo=javascript&logoColor=%23ffffff" />
+  <img src="https://img.shields.io/badge/go-%230d1117.svg?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/lua-%230d1117.svg?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/svelte-%230d1117.svg?style=for-the-badge&logo=svelte&logoColor=white" />
 </p>
 <!--![Sam Morse](goodname.svg)
 
